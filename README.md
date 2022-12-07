@@ -1,24 +1,33 @@
-<h1 align='center'>
-  Hi there 👋 I'm Jeong 👨‍💻
-</h1>
-
-## About me
-🍀: I’m currently learning Basic Programming skills like Python, HTML, CSS and Javascript.<br/>
-📝: Sometimes I write articles on [Velog](https://dreamingsado.tistory.com/) <br/> <!-- Add a links-->
-📮: How to reach me: sado1003@naver.com <br/>
+![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=new%20Wisdom();&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
 
 
-<!--
-**sadojeong/sadojeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> 👋 Hi there 👋 </h3>
+<p align="center">
+I'm Sado Jeong, a dreaming and  growing developer. 🌱 <br>
+I want to be a developter who can communicate well!
+</p>
+<h3 align="center">📚 Technology Stack 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=&logoColor=white"/>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
 
-Here are some ideas to get you started:
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=Apache Hadoop&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">•••</h3>
+
+<p align="center">
+  <a href="https://dreamingsado.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://dreamingsado.tistory.com/"/></a>&nbsp
+  <a href="mailto:a01063854375@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a01063854375@gmail.com"/></a>
+  
+</p>
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
