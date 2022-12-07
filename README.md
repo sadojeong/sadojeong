@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### I am Sado Jeong, Full Stack Web Developer from :한국: Seoul, Republic of Korea
+
+### About me
+:네잎클로버: I’m currently learning Basic Programming skills like Python, HTML, CSS and Javascript.<br/>
+:메모: Sometimes I write articles on [Velog](https://dreamingsado.tistory.com/) <br/> <!-- Add a links-->
+:우편함: How to reach me: sado1003@naver.com <br/>
+
+
 <!--
 **sadojeong/sadojeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
