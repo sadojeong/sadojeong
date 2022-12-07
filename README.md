@@ -1,6 +1,6 @@
-## Hi there 👋
-
-## I am Sado Jeong, Full Stack Web Developer from :한국: Seoul, Republic of Korea
+<h1 align='center'>
+  Hi there 👋 I'm Alexandre 👨‍💻
+</h1>
 
 ## About me
 🍀: I’m currently learning Basic Programming skills like Python, HTML, CSS and Javascript.<br/>
