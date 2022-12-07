@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=Sado%20Jeong%20:%20\)&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=slice&color=2a5b89&height=170&section=header&text=Sado%20Jeong%20:%20\)&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=80)
 
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
@@ -30,5 +30,5 @@ I want to be a developter who can communicate well!
   
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=2a5b89&height=100&section=footer)
 
