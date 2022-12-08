@@ -30,5 +30,5 @@ I want to be a developter who can communicate well!
   
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=30A9E&height=100&section=footer)
 
