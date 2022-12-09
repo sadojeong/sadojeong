@@ -37,10 +37,9 @@ I started because of my health, but now I can't live without it. 😍
 </p>
 
 <h3 align=“center”>📫 Contact Me 📫</h3>
-
 <p align=“center”>
-<a href="https://dreamingsado.tistory.com/“><img src=”https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://dreamingsado.tistory.com/"/></a>&nbsp
-<a href="mailto:a01063854375@gmail.com“><img src=”https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a01063854375@gmail.com"/></a>
+  <a href="https://dreamingsado.tistory.com/“><img src=”https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://dreamingsado.tistory.com/"/></a>&nbsp
+  <a href="mailto:a01063854375@gmail.com“><img src=”https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a01063854375@gmail.com"/></a>
 
 </p>
 
