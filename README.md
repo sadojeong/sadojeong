@@ -6,6 +6,23 @@
 I'm Sado Jeong, a dreaming and  growing developer. 🏃‍♂️ <br>
 I want to be a developter who can communicate well!
 </p>
+
+<h3 align=“center”> &#x1F3AF; Focus On &#x1F3AF; </h3>
+<p align=“center”>
+I'm studying at a bootcamp to become a full-stack developer. 👨‍💻 <br>
+In particular, I am studying Java-based web development and  <br>
+Python-based data collection, visualization, and AI.
+</p>
+
+<h3 align=“center”> &#x1F440; Interested In &#x1F440; </h3>
+<p align=“center”> 
+First of all, I like to read books! I especially like self-help books! 📖 <br>
+And I like to listen to music. 🎧 <br>
+Listening to Jinah Kwon's songs while taking a walk at night is a great healing for me. 🌃 <br>
+Lastly, I love gym training. 🏋️‍♂️<br>
+I started because of my health, but now I can't live without it. 😍
+</p>
+
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
@@ -23,11 +40,9 @@ I want to be a developter who can communicate well!
 </p>
 
 <h3 align="center">📫 Contact Me 📫</h3>
-
 <p align="center">
   <a href="https://dreamingsado.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://dreamingsado.tistory.com/"/></a>&nbsp
-  <a href="mailto:a01063854375@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a01063854375@gmail.com"/></a>
-  
+  <a href="mailto:a01063854375@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a01063854375@gmail.com"/></a> 
 </p>
 
 <p align="center">
