@@ -30,7 +30,9 @@ I want to be a developter who can communicate well!
   
 </p>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadojeong&show_icons=true&locale=en&layout=compact" alt="sadojeong" /></p>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadojeong&show_icons=true&locale=en&layout=compact" alt="sadojeong" />
+</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=100&section=footer)
 
