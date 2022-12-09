@@ -34,9 +34,9 @@ I want to be a developter who can communicate well!
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadojeong&show_icons=true&locale=en&layout=compact" alt="sadojeong" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakeham22&show_icons=true&locale=en" alt="jakeham22" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadojeong&show_icons=true&locale=en" alt="sadojeong" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakeham22&" alt="jakeham22" /></p> -->
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadojeong&" alt="sadojeong" /></p> -->
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=100&section=footer)
 
