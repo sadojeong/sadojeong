@@ -7,15 +7,15 @@ I'm Sado Jeong, a dreaming and  growing developer. 🏃‍♂️ <br>
 I want to be a developter who can communicate well!
 </p>
 
-<h3 align=“center”> &#x1F3AF; Focus On &#x1F3AF; </h3>
-<p align=“center”>
+<h3 align="center"> &#x1F3AF; Focus On &#x1F3AF; </h3>
+<p align="center">
 I'm studying at a bootcamp to become a full-stack developer. 👨‍💻 <br>
 In particular, I am studying Java-based web development and  <br>
 Python-based data collection, visualization, and AI.
 </p>
 
-<h3 align=“center”> &#x1F440; Interested In &#x1F440; </h3>
-<p align=“center”> 
+<h3 align="center"> &#x1F440; Interested In &#x1F440; </h3>
+<p align="center"> 
 First of all, I like to read books! I especially like self-help books! 📖 <br>
 And I like to listen to music. 🎧 <br>
 Listening to Jinah Kwon's songs while taking a walk at night is a great healing for me. 🌃 <br>
