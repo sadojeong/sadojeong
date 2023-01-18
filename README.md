@@ -4,7 +4,7 @@
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
 I'm Sado Jeong, a dreaming and  growing developer. 🏃‍♂️ <br>
-I want to be a developter who can communicate well
+I want to be a developter who can communicate well!
 </p>
 
 <h3 align="center"> &#x1F3AF; Focus On &#x1F3AF; </h3>
