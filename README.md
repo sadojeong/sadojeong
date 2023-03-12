@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=483D8B&height=170&section=header&text=Sado%20Jeong%20:%20\)&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=80)
 
 
-<h3 align="center"> 👋 Hi there   </h3>
+<h3 align="center"> 👋 Hi there 👋  </h3>
 <p align="center">
 I'm Sado Jeong, a dreaming and  growing developer. 🏃‍♂️ <br>
 I want to be a developter who can communicate well!
@@ -9,7 +9,7 @@ I want to be a developter who can communicate well!
 
 <h3 align="center"> &#x1F3AF; Focus On &#x1F3AF; </h3>
 <p align="center">
-I'm studying at a bootcamp to become a full-stack developer. 👨‍💻 <br>
+I'm studying at a bootcamp to become a back-end developer. 👨‍💻 <br>
 In particular, I am studying Java-based web development and  <br>
 Python-based data collection, visualization, and AI.
 </p>
